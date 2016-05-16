@@ -1,0 +1,3 @@
+### This code will perform Vector Autoregressive model. It takes multiple time series and determines if the shock in one creates a shock in the others. 
+### The program with this setup takes two time series per state in the US and estimates the IRF's coefficient, lower bound and upper bound.
+### According to Zhang and Chen (2009) in Ecological Economics, the IRF explains how a shock to one varialble affects another variable and how long the effect lasts in the short run.
